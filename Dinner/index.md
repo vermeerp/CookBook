@@ -1,7 +1,7 @@
 # Dinner Recipes
 
 ## Pretty Quick
-[Tex Mex Chicken](texmexchicken.html)
+[Tex Mex Chicken](/texmexchicken/)
 
 ## InstantPot
 
