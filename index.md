@@ -1,3 +1,3 @@
 # Tried and True Recipes
 
-## [Dinner](Dinner/index.html)
+## [Dinner](Dinner)
