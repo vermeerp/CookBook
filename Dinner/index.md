@@ -1,10 +1,11 @@
 # Dinner Recipes
 
 ## Pretty Quick
-- [Tex Mex Chicken](/texmexchicken/)
+- [Tex Mex Chicken](tex_mex_chicken)
 - [Ground Turkey and Zucchini Pesto](ground_turkey_and_zucchini_pesto)
 
 ## InstantPot
+- [Shrimp Scampi](InstantPot/shrimp_scampi)
 
 ## Slow Cooker
 

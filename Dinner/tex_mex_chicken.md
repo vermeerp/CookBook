@@ -1,6 +1,3 @@
----
-permalink: /texmexchicken/
----
 # Tex Mex Chicken
 Mexican Chicken and Zucchini cooked in one skillet with black beans, corn,
 fresh herbs, taco seasoning and melted cheese on top. 
