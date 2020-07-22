@@ -1,4 +1,6 @@
-# Dinner Recipes
+---
+title: Dinner Recipes
+---
 
 ## Pretty Quick
 - [Tex Mex Chicken](PrettyQuick/tex_mex_chicken)
