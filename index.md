@@ -2,6 +2,8 @@
 
 ## [Bread](Bread)
 
+## [Breakfast](Breakfast)
+
 ## [Dinner](Dinner)
 
 ## [Salad](Salad)
