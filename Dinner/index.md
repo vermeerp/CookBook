@@ -11,3 +11,4 @@
 ## Slow Cooker
 
 ## More Challenging, but Worth It!
+- [Vegetable Lasagna](MCBWI/vegetable_lasagna.md)
