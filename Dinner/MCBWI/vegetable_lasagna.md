@@ -1,4 +1,4 @@
-# Vegetabnle Lasagna
+# Vegetable Lasagna
 
 This recipe has all vegetables Annelise likes, and none (well, except onions)
 that she doesn't like.
