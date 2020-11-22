@@ -12,3 +12,4 @@
 
 ## More Challenging, but Worth It!
 - [Vegetable Lasagna](MCBWI/vegetable_lasagna.md)
+- [Arroz Con Pollo](MCBWI/arroz_con_pollo.md)
