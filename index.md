@@ -11,3 +11,5 @@
 ## [Sweets](Sweets)
 
 ## [Vegetables](Vegetables)
+
+## [Dog Treats](DogTreats)
