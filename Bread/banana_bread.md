@@ -16,6 +16,7 @@ Oven Temperature: 350
 - 1 tsp vanilla
 - 1 tsp baking soda
 - pinch of salt
+- 1 tsp cinnamon (or other spices)
 - 1.5 c flour
 - 1 c chopped walnuts (optional)
 

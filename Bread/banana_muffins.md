@@ -16,6 +16,7 @@ Servings: 12
 - 1 tsp vanilla
 - 1 tsp baking soda
 - pinch of salt
+- 1 tsp cinnamon (can also add other spices)
 - 1.5 c flour
 - 1 c chopped walnuts (optional)
 
