@@ -15,3 +15,4 @@
 - [Arroz Con Pollo](MCBWI/arroz_con_pollo.md)
 - [Eggplant Parmesan](MCBWI/eggplant_parmesan.md)
 - [Vegetable Lasagna](MCBWI/vegetable_lasagna.md)
+- [Spinach Lagana Noodles](MCBWI/spinach_lasagna_noodles.md)
