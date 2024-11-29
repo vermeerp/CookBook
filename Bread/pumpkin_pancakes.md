@@ -12,7 +12,7 @@ Great way to use up canned pumpkin after making dog treats!
 - 1 egg
 - 2 tablespoons vegetable oil 
 - 2 tablespoons vinegar
-- 2 cups all­purpose flour
+- 2 cups all-purpose flour
 - 3 tablespoons brown sugar
 - 2 teaspoons baking powder 
 - 1 teaspoon baking soda
