@@ -1,4 +1,4 @@
 #theme: jekyll-theme-architect
 remote_theme: chrisrhymes/bulma-clean-theme@v1.0.0
-
+markdown: kramdown
 title: My Cook Book
