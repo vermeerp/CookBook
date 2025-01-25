@@ -8,6 +8,8 @@
 
 ## [Salad](Salad)
 
+## [Snacks](Snacks) 
+
 ## [Sweets](Sweets)
 
 ## [Vegetables](Vegetables)
