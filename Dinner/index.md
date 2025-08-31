@@ -17,8 +17,9 @@
 - [Arroz Con Pollo](MCBWI/arroz_con_pollo.md)
 - [Eggplant Parmesan](MCBWI/eggplant_parmesan.md)
 - [Eggplant Ziti Parmesan](MCBWI/eggplant_ziti_parmesan.md)
-- [Vegetable Lasagna](MCBWI/vegetable_lasagna.md)
 - [Spinach Lagana Noodles](MCBWI/spinach_lasagna_noodles.md)
+- [Turkey Shepherd's Pie](MCBWI/turkey_shepherds_pie.md)
+- [Vegetable Lasagna](MCBWI/vegetable_lasagna.md)
 
 ## Miscellaneous
 - [Kasha Grain Bowl with Mushrooms](Miscellaneous/kasha_grain_bowl.md)
