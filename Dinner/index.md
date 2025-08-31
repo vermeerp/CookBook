@@ -16,8 +16,9 @@
 ## More Challenging, but Worth It!
 - [Arroz Con Pollo](MCBWI/arroz_con_pollo.md)
 - [Eggplant Parmesan](MCBWI/eggplant_parmesan.md)
+- [Eggplant Ziti Parmesan](MCBWI/eggplant_ziti_parmesan.md)
 - [Vegetable Lasagna](MCBWI/vegetable_lasagna.md)
 - [Spinach Lagana Noodles](MCBWI/spinach_lasagna_noodles.md)
 
-## Not in the Other Categories
-- [Kasha Grain Bowl with Mushrooms](NotInOtherCategories/kasha_grain_bowl.md)
+## Miscellaneous
+- [Kasha Grain Bowl with Mushrooms](Miscellaneous/kasha_grain_bowl.md)

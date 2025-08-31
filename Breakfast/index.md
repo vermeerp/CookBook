@@ -3,5 +3,7 @@
 Get a great start to your morning.  Or eat these anytime!
 
 # Eggs
-## [Egg Bites](egg_bites.md)
-## [Quiche](quiche.md)
+
+- [Egg Bites](egg_bites.md)
+- [Quiche](quiche.md)
+- [Sausage Cheese Strata](sausage_cheese_strata.md)
