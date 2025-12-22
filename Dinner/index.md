@@ -15,6 +15,7 @@
 
 ## More Challenging, but Worth It!
 - [Arroz Con Pollo](MCBWI/arroz_con_pollo.md)
+- [Cornish Hen](MCBWI/cornish_hen.md)
 - [Easy Spinach Lasagna](MCBWI/easy_spinach_lasagna.md)
 - [Eggplant Parmesan](MCBWI/eggplant_parmesan.md)
 - [Eggplant Ziti Parmesan](MCBWI/eggplant_ziti_parmesan.md)
