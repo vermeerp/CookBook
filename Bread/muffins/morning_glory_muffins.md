@@ -23,8 +23,8 @@ Yield: 12 muffins
 - 2/3 cup neutral oil (such as vegetable, grapeseed, or canola)
 - 2 carrots, peeled, coarsely grated
 - 1/2 cup chopped pecans (or any nut)
-- 1/3 cup golden raisins (or any small pieces of dried fruit)
-- 1/3 cup shredded coconut (sweetened or not, up to you)
+- 1/2 cup golden raisins (or any small pieces of dried fruit)
+- 1/2 cup shredded coconut (sweetened or not, up to you)
 
 ## Instructions
 
